@@ -1,0 +1,1 @@
+run gnuplot under same folder
