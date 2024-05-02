@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1712227973 source:/home/luigi/Repo/LSG-MicroController-AI/StudyOfGraphs/coefficienteAngolareTest/main.c
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+
